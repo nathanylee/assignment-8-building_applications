@@ -8,7 +8,7 @@ Submission
 
 ##### 1. Did you receive any help from others (classmates, etc)? If so, please list who.
 
-> Didn't receive any help from anyone
+> Spencer and David 
 
 ##### 2. Approximately how many hours did it take you to complete this challenge?
 
