@@ -1,6 +1,8 @@
 # assignment-8-building_applications
 Info498F Assignment 8
 
+ShinyApps.io Application Link: https://nathanylee.shinyapps.io/assignment-8-building_applications/
+
 Submission
 ----------
 
