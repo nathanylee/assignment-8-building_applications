@@ -5,8 +5,9 @@ library(dplyr)
 library(rsconnect)
 library(ggplot2)
 
-
-#setwd("C:/Users/Nathan/Documents/info498f/assignment-8-building_applications/rsconnect/shinyapps.io/nathanylee")
+#---This line of code was used to set the working directory for testing the app in RStudio, but had to be taken out 
+#---because it messed up the shinyapps.io upload
+#setwd("C:/Users/Nathan/Documents/info498f/assignment-8-building_applications")
 
 #dataset <- data(iris)
 dataset <- iris
