@@ -34,7 +34,6 @@ shinyUI(fluidPage(
       mainPanel(
         h3(textOutput("caption")),
         plotOutput('scatter')
-        #plotlyOuput('scatter')
       )
     )
 ))

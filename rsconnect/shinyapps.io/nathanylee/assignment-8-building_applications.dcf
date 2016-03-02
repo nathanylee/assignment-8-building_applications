@@ -2,6 +2,8 @@ name: assignment-8-building_applications
 account: nathanylee
 server: shinyapps.io
 appId: 86671
-bundleId: 385297
+bundleId: 385917
 url: https://nathanylee.shinyapps.io/assignment-8-building_applications/
-when: 1456909964.81215
+when: 1456952409.00055
+asMultiple: FALSE
+asStatic: FALSE

@@ -5,7 +5,7 @@ library(dplyr)
 library(rsconnect)
 library(ggplot2)
 
-#setwd("C:/Users/Nathan/Documents/info498f/assignment-8-building_applications")
+
 #setwd("C:/Users/Nathan/Documents/info498f/assignment-8-building_applications/rsconnect/shinyapps.io/nathanylee")
 
 #dataset <- data(iris)
